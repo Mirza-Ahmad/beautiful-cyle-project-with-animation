@@ -1,0 +1,989 @@
+.div1
+{
+height: 50vh;
+width: 1348px;
+background-color: #333333;
+margin-top: 0px;
+margin-left: -8px;
+}
+.div2
+{
+  height: 30vh;
+  width: 1348px;
+  background-color: #009900;
+  margin-left: -8px;
+}
+.slight1{
+  height: 50px;
+  width: 40px;
+  border-left: 2px solid black;
+  border-bottom: 2px solid black;
+  border-right: 2px solid black;
+  background-color: #999999;
+  border-top-left-radius: 23px;
+  border-top-right-radius: 23px;
+  margin-left: 560px;
+  margin-top: -2px;
+}
+.slight2{
+  height: 164px;
+  width: 10px;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  background-color: #999999;
+  margin-left: 574px;
+  margin-top: 70px;
+  position: relative;
+}
+.slight3{
+  height: 20px;
+  width: 10px;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  border-top: 2px solid black;
+  background-color:  #999999;
+  margin-left: 626px;
+  margin-top: -718px;
+  transform: rotate(-10deg);
+}
+.slight4{
+  height: 29px;
+  width: 50px;
+  border-left: 2px solid black;
+  border-top:2px solid black;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+  background-color:  #999999;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  margin-left: 610px;
+  margin-top: -3px;
+}
+ .slight5{
+  height: 56px;
+  width: 10px;
+  border-left: 2px solid black;/*
+  border-top: 2px solid black;*/
+  border-right: 2px solid black;
+  /*border-bottom: 2px solid black;*/
+  background-color:  #999999;
+  margin-left: 616px;
+  margin-top: -100px;
+  transform: rotate(-20deg);
+  /*border-top-left-radius: 10px;
+  border-top-right-radius: 10px;*/
+ }
+ .slight6{
+   height: 20px;
+   width: 11px;
+   border-left: 2px solid black;
+   border-right: 2px solid black;
+   background-color: #999999;
+   transform: rotate(32deg);
+   margin-top: -45px;
+   margin-left: 579px;
+ }
+ .slight7{
+    height: 13px;
+    width: 8px;
+    border-left: 2px solid black;
+    background-color:  #999999;
+    margin-left: 585px;
+    margin-top: -27px;
+    transform: rotate(33deg);
+ }
+ .slight8{
+    height: 28px;
+    width: 8px;
+    border-left: 2px solid black;
+    background-color:  #999999;
+    margin-left: 600px;
+    margin-top: -26px;
+    transform: rotate(83deg);
+ }
+ .slight9{
+    height: 19px;
+    width: 8px;
+    border-left: 2px solid black;
+    background-color:  #999999;
+    margin-left: 594px;
+    transform: rotate(-125deg);
+    margin-top: -15px;
+ }
+  .light1{
+    height: 195px;
+    width: 4px;
+    background-color: #FFFF00;
+    margin-left: 544px;
+    margin-top: 20px;
+    transform: rotate(43deg);
+  }
+  .Mirza{
+    height:27px;
+    width:70px;
+    background-color: #FFFF00;
+    margin-left: 100px;
+  }
+  .light2{
+    height: 193px;
+    width: 4px;
+    margin-left: 726px;
+    margin-top: -193px;
+    transform: rotate(-43deg);
+    background-color:  #FFFF00;
+  }
+  .board{
+    height: 120px;
+    width: 3px;
+    background-color:  #999999; 
+    margin-left: 130px;
+    margin-top: -144px;
+}
+  .board1{
+    height: 100px;
+    width: 2px;
+    background-color:  #FFFF00;
+    margin-top: -216px;
+    border-left: 2px solid;
+    border-color: yellow;
+    margin-left: 102px;
+    transform: rotate(30deg);
+  }
+   .board2{
+    height: 100px;
+    width: 5px;
+    background-color:  #FFFF00;
+    margin-top: -100px;
+    margin-left: 150px;
+    transform: rotate(-30deg);
+   }
+   .board3{
+    height: 100px;
+    width: 5px;
+    background-color:  #FFFF00;
+    margin-left: 126px;
+    transform: rotate(90deg);
+    margin-top: -58px;
+   }
+   .htype{
+    margin-left: 108px;
+    margin-top: -90px;
+   }
+   .stype{
+    height: 70px;
+    width: 70px;
+    background-color: white;
+    border-radius: 40px;
+    margin-left: 1000px;
+    margin-top: -100px;
+   }
+   .dtype{
+    height: 3px;
+    width: 3px;
+    background-color: white;
+    margin-left: 970px;
+   }
+   .d1type{
+    height: 3px;
+    width: 3px;
+    background-color: white;
+    margin-left: 900px;
+    margin-top: -40px;
+   }
+   .d2type{
+    height: 3px;
+    width: 3px;
+    background-color: white;
+    margin-left: 830px;
+    margin-top: -40px;
+   }
+   .d3type{
+    height: 3px;
+    width: 3px;
+    background-color: white;
+    margin-left: 890px;
+    margin-top: -40px;
+   }
+   .d4type{
+    height: 3px;
+    width: 3px;
+    background-color: white;
+    margin-left: 1100px;
+   }
+   .d5type{
+    height: 3px;
+    width: 3px;
+    background-color: white;
+    margin-left: 1220px;
+    margin-top: 40px;
+   }
+   .d6type{
+    height: 3px;
+    width: 3px;
+    background-color: white;
+    margin-left: 1010px;
+    margin-top: 30px;
+   }
+   .d7type{
+    height: 3px;
+    width: 3px;
+    margin-left: 1170px;
+    margin-top: 50px;
+    background-color: white;
+   }
+   .d8type{
+    height: 3px;
+    width: 3px;
+    margin-left: 1160px;
+    margin-top: -50px;
+    background-color: white;
+   }
+   .d9type{
+    height: 180px;
+    width: 180px;
+    margin-top: 310px;
+    margin-left: 200px;
+    background-color: #666666;
+    border-radius: 180px;
+    animation: mymove1 2s linear infinite;
+   }
+   .wtype{
+    height: 164px;
+    width: 164px;
+    margin-left: 8px;
+    margin-top: 8px;
+    background-color: white;
+    border-radius: 164px;
+    position: absolute;
+   }
+   .w1type{
+    height: 140px;
+    width: 140px;
+    background-color: #44B5B5;
+    border-radius: 140px;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 20px;
+   }
+    .w2type{
+    height: 13px;
+    width: 4px;
+    transform: rotate(-5deg);
+    position: absolute;
+    margin-left: 41px;
+    background-color: white;
+    margin-top: 82px;
+    border-radius: 10px;
+    }
+    .w3type{
+    height: 15px;
+    width: 4px;
+    background-color: white;
+    position: absolute;
+    border-radius: 10px;
+    margin-top: 92px;
+    margin-left: 43px;
+    transform: rotate(-18deg);
+    }
+    .w4type{
+     height: 12px;
+     width: 4px;
+     background-color: white;
+     position: absolute;
+     border-radius: 10px;
+     margin-top: 105px;
+     margin-left: 48px;
+     transform: rotate(-30deg);
+    }
+    .w5type{
+      height: 14px;
+      width: 4px;
+      background-color: white;
+      border-radius: 10px;
+      margin-top: 112px;
+      position: absolute;
+      margin-left: 54px;
+      transform: rotate(-40deg);
+    }
+     .w6type{
+      height: 13px;
+      width: 4px;
+      position: absolute;
+      background-color: white;
+      border-radius: 10px;
+      margin-top: 118px;
+      margin-left: 59px;
+      transform: rotate(-45deg);
+     }
+     .w7type{
+      height: 14px;
+      width: 4px;
+      background-color: white;
+      border-radius: 10px;
+      position: absolute;
+      margin-top: 125px;
+      margin-left: 68px;
+      transform: rotate(-55deg);
+     }
+     .w8type{
+      height: 14px;
+      width: 4px;
+      position: absolute;
+      border-radius: 10px;
+      background-color: white;
+      margin-left: 78px;
+      margin-top: 131px;
+      transform: rotate(-62deg);
+     }
+      .w9type{
+        height: 25px;
+        width: 25px;
+        border-radius: 25px;
+        position: absolute;
+        background-color: #666666;
+        margin-left: 75px;
+        margin-top: 75px;
+      }
+      @keyframes mymove1{
+        from{
+          transform: rotate(0deg);
+        }
+        to{
+          transform: rotate(1000deg);
+        }
+      }
+      .handtype{
+        height: 98px;
+        width: 10px;
+        background-color: #91CFC7;
+        border-radius : 20px;
+        margin-left:327px;
+        margin-top: -105px;
+        transform: rotate(-80deg);
+         position: relative;
+      }
+       .hand1type{
+        height: 70px;
+        width: 70px;
+        border-radius: 100px;
+        background-color: #666666;
+        margin-left: 363px;
+        margin-top: -100px;
+        position: relative;
+        z-index: 1;
+        animation: mymove2 2s linear infinite;
+       }
+       .hand2type{
+        height: 60px;
+        width: 60px;
+        border-radius: 60px;
+        background-color: white;
+        position: absolute;
+        margin-left: 5px;
+        margin-top: 5px;
+        position: absolute;
+       }
+       .hand3type{
+        height: 20px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute; 
+        transform: rotate(-30deg);
+        margin-left: 25px;
+        margin-top: 12px;
+       }
+       .hand4type{
+        height: 20px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute;
+        margin-left: 33px;
+        transform: rotate(20deg);
+        margin-top: 11px;
+       }
+       .hand5type{
+        height: 16px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute;
+        margin-left: 27px;
+        transform: rotate(90deg);
+        margin-top: 5px;
+       }
+      .hand6type{
+        height: 20px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute;
+        margin-left: 45px;
+        transform: rotate(20deg);
+        margin-top: 14px;
+        }
+      .hand7type{
+        height: 20px;
+        width: 3px;
+        background-color: #42B59F;
+        margin-left: 50px; 
+        margin-top: 18px;
+        position: absolute;
+        transform: rotate(55deg);
+      }
+      .hand8type{
+        height: 15px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute;
+        margin-left: 53px;
+        transform:rotate(130deg);
+        margin-top: 11px;
+      }
+      .hand9type{
+        height: 17px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute;
+        margin-left: 52px;
+        transform: rotate(90deg);
+        margin-top: 32px;
+      }
+      .hand10type{
+        height: 17px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute;
+        margin-left: 50px;
+        margin-top: 37px;
+        transform: rotate(310deg);
+      }
+      .hand11type{
+        height: 14px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute;
+        margin-left: 58px;
+        margin-top: 39px;
+        transform: rotate(11deg);
+      }
+      .hand12type{
+        height: 17px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute;
+        margin-left: 35px;
+        margin-top: 44px;
+        transform: rotate(3deg);
+      }
+      .hand13type{
+        height: 17px;
+        width: 3px;
+        position: absolute;
+        background-color: #42B59F;
+        margin-left: 41px;
+        margin-top: 42px;
+        transform: rotate(-40deg);
+      }
+      .hand14type{
+        height: 13px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute;
+        margin-top: 52px;
+        margin-left: 41px;
+        transform: rotate(75deg);
+      }
+      .hand15type{
+        height: 17px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute;
+        margin-left: 19px;
+        margin-top: 40px;
+        transform: rotate(35deg);
+      }
+      .hand16type{
+        height: 17px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute;
+        margin-left: 25px;
+        margin-top: 40px;
+        transform: rotate(-10deg);
+      }
+      .hand17type{
+        height: 14px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute;
+        margin-left: 21px;
+        margin-top: 50px;
+        transform: rotate(92deg);
+      }
+      .hand18type{
+        height: 17px;
+        width:3px;
+        background-color: #42B59F;
+        position: absolute;
+        margin-left: 10px;
+        margin-top: 22px;
+      }
+      .hand19type{
+        height: 17px;
+        width: 3px;
+        position: absolute;
+        background-color: #42B59F;
+        margin-left: 17px;
+        margin-top: 19px;
+        transform: rotate(-54deg);
+      }
+      .hand20type{
+        height: 17px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute;
+        margin-left: 16px;
+        margin-top: 28px;
+        transform: rotate(60deg);
+      }
+      .hand21type{
+        height: 17px;
+        width: 17px;
+        border-radius: 17px;
+        background-color:  #42B59F;
+        position: absolute;
+        z-index: 1;
+        margin-left: 26px;
+        margin-top: 28px;
+      }
+      .hand22type{
+        height: 60px;
+        width: 10px;
+        background-color: #42B59F;
+        position: absolute;
+        z-index: 1;
+        margin-left: 38px;
+        margin-top: 30px;
+        transform: rotate(-20deg);
+      }
+      .hand23type{
+        height: 10px;
+        width: 50px;
+        background-color: #666666;
+        position: absolute;
+        z-index: 1;
+        margin-top: 80px;
+        margin-left: 30px;
+        border-radius: 10px;
+      }
+      @keyframes mymove2{
+        from{
+          transform: rotate(0deg);
+        }
+        to{
+          transform: rotate(1000deg);
+        }
+      }
+      .thand{
+        height: 190px;
+        width: 10px;
+        background-color: #8FCFC7;
+        border-radius: 20px;
+        margin-left: 341px;
+        margin-top: -223px;
+        position: absolute;
+        transform: rotate(39deg);
+      }
+      .tehand{
+        height: 20px;
+        width: 10px;
+        background-color: #8FCFC7;
+        position: absolute;
+        margin-left: 398px;
+        margin-top: -219px;
+      }
+      .twhand{
+        height: 7px;
+        width: 20px;
+        background-color: #E1C968;
+        margin-left: 394px;
+        margin-top: -226px;
+        position: absolute;
+        transform: rotate(-4deg);
+      }
+      .trhand{
+        height: 15px;
+        width: 60px;
+        background-color: #E1C968;
+        border-radius: 10px;
+        margin-left: 375px;
+        margin-top: -240px;
+        transform: rotate(-4deg);
+        animation: mymove3 2s linear infinite;
+      }
+      @keyframes mymove3{
+        from{
+          transform: rotate(0deg);
+        }
+        to{
+          transform: rotate(-8deg);
+        }
+      }
+      .tqhand{
+        height: 153px;
+        width: 10px;
+        border-radius: 20px;
+        background-color:  #8FCFC7;
+        margin-left: 394px;
+        margin-top: 14px;
+        transform: rotate(3deg);
+        position: absolute;
+        z-index: 9999;
+      }
+      .tvhand{
+        height: 10px;
+        width: 40px;
+        background-color: #666666;
+        border-radius: 10px;
+        margin-left: -20px;
+        margin-top: -39px;
+        transform: rotate(-15deg);
+        position: absolute;
+      }
+       .kttype{
+        height: 45px;
+        width: 10px;
+        background-color: #42B59F ;
+        margin-left: 0px;
+        margin-top: -30px;
+        transform: rotate(-17deg);
+        position: absolute;
+       }
+       .ctype{
+        height: 20px;
+        width: 20px;
+        border-radius: 10px;
+        background-color: white;
+        margin-left: 391px;
+        margin-top: 193px;
+        animation: mywi 2s linear infinite;
+       }
+         @keyframes mywi{
+        from{
+          transform: rotate(0deg);
+        }
+        to{
+          transform: rotate(1000deg);
+        }
+       }
+       .mtype{
+        height: 190px;
+        width: 10px;
+        border-radius: 20px;
+        background-color: #91CFC7;
+        margin-left: 494px;
+        margin-top: -280px;
+        transform: rotate(90deg);
+       }
+       .m1type{
+        height: 242px;
+        width: 10px;
+        border-radius: 20px;
+        background-color: #91CFC7;
+        margin-left: 490px;
+        margin-top: -120px;
+        transform: rotate(-482deg);
+       }
+       .mirtype{
+        height: 180px;
+        width: 180px;
+        background-color:  #666666;
+        border-radius: 180px;
+        margin-left: 540px;
+        margin-top: -162px;
+        animation: myuet 2s linear infinite;
+       }
+       .mir1type{
+        height: 164px;
+        width: 164px;
+        background-color: white;
+        border-radius: 164px;
+        position: absolute;
+        margin-left: 8px;
+        margin-top: 8px;
+       }
+       .mir2type{
+        height: 50px;
+        width: 3px;
+        background-color:  #42B59F;
+        position: absolute;
+        transform: rotate(-30deg);
+        margin-left: 80px;
+        margin-top: 20px;
+      }
+      .mir3type{
+        height: 50px;
+        width: 3px;
+        position: absolute;
+        transform: rotate(20deg);
+        margin-left: 100px;
+        margin-top: 19px;
+        background-color: #42B59F;
+      }
+      .mir4type{
+        height: 43px;
+        width: 3px;
+        position: absolute;
+        background-color: #42B59F;
+        transform: rotate(90deg);
+        margin-left: 88px;
+        margin-top: 1px;
+      }
+      .mir5type{
+        height: 50px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute;
+        transform: rotate(20deg);
+        margin-left: 125px;
+        margin-top: 25px;
+      }
+      .mir6type{
+        height: 50px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute;
+        transform: rotate(55deg);
+        margin-left: 136px;
+        margin-top: 35px;
+      }
+      .mir7type{
+        height: 29px;
+        width: 3px;
+        position: absolute;
+        background-color: #42B59F;
+        transform: rotate(130deg);
+        margin-left: 145px;
+        margin-top: 23px;
+      }
+      .mir8type{
+        height: 48px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute;
+        margin-left: 140px;
+        margin-top: 64px;
+        transform: rotate(90deg);
+      }
+      .mir9type{
+        height: 48px;
+        width: 3px;
+        background-color:#42B59F;
+        position: absolute;
+        transform: rotate(310deg);
+        margin-left: 134px;
+        margin-top: 79px;
+      }
+      .mir10type{
+        height: 36px;
+        width: 3px;
+        background-color: #42B59F;
+        transform: rotate(20deg);
+        position: absolute;
+        margin-left: 159px;
+        margin-top: 85px;
+      }
+       .mir11type{
+        height: 53px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute;
+        transform: rotate(3deg);
+        margin-left: 100px;
+        margin-top: 95px;
+       }
+       .mir12type{
+        height: 53px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute;
+        transform: rotate(-40deg);
+        margin-left: 118px;
+        margin-top: 89px;
+       }
+       .mir13type{
+        height:39px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute;
+        transform: rotate(72deg);
+        margin-left: 117px;
+        margin-top: 121px;
+       }
+       .mir14type{
+        height: 53px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute;
+        transform: rotate(35deg);
+        margin-left: 60px;
+        margin-top: 88px;
+       }
+       .mir15type{
+        height: 53px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute;
+        transform: rotate(-10deg);
+        margin-left: 79px;
+        margin-top: 93px;
+       }
+       .mir16type{
+        height: 40px;
+        width: 3px;
+        position: absolute;
+        background-color: #42B59F;
+        transform: rotate(105deg);
+        margin-left: 65px;
+        margin-top: 121px;
+       }
+       .mir17type{
+        height: 53px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute;
+        margin-left: 30px; 
+        margin-top: 40px;
+       }
+       .mir18type{
+        height: 53px;
+        width: 3px;
+        background-color: #42B59F;
+        position: absolute;
+        transform: rotate(-54deg);
+        margin-left: 51px;
+        margin-top: 29px;
+        }
+        .mir19type{
+         height: 50px;
+         width: 3px;
+         background-color: #42B59F;
+         position: absolute;
+         margin-left: 51px;
+         margin-top: 58px;
+         transform: rotate(60deg);
+        }
+        .mir20type{
+         height: 35px;
+         width: 35px;
+         background-color:  #84CBC1;
+         border-radius: 35px;
+         position: absolute;
+         margin-left: 75px;
+         margin-top: 65px;
+        }
+        @keyframes myuet{
+          from{
+            transform: rotate(0deg);
+          }
+          to{
+            transform: rotate(1000deg);
+          }
+        }
+        .mir21type{
+          height: 50px;
+          width: 12px;
+          background-color: #84CBC1;
+          border-radius: 20px;
+          margin-left: 587px;
+          margin-top: -240px;
+          position: absolute;
+        }
+        .mir22type{
+          height: 43px;
+          width: 12px;
+          border-radius: 10px;
+          position: absolute;
+          background-color: #84CBC1;
+          border-radius: 4px;
+          margin-left: 592px;
+          margin-top: -200px;
+          transform: rotate(-18deg);
+        }
+        .mir23type{
+          height: 80px;
+          width: 12px;
+          background-color: #84CBC1;
+          border-radius: 4px;
+          margin-left: 613px;
+          transform: rotate(-10deg);
+          border-radius: 10px;
+          position: absolute;
+          margin-top: -168px;
+          transform: rotate(-25deg);
+        }
+        .mir24type{
+          height: 40px;
+          width: 12px;
+          border-radius: 10px;
+          background-color:  #84CBC1;
+          margin-left: 587px;
+          margin-top: -272px;
+        }
+        .mir25type{
+          height: 50px;
+          width: 12px;
+          border-radius: 10px;
+          background-color:  #84CBC1;
+          margin-left: 605px;
+          margin-top: -70px;
+          transform: rotate(60deg);
+        }
+        .mir26type{
+          height: 10px;
+          width: 25px;
+          background-color: #666666;
+          border-radius: 10px;
+          margin-left: 581px;
+          margin-top: -5px;
+        }
+        .mir27type{
+          height: 230px;
+          width: 2px;
+          background-color: white;
+          position: absolute;
+          transform: rotate(90deg);
+          margin-left: 495px;
+          margin-top: -95px;
+        }
+        .mir28type{
+          height: 30px;
+          width: 2px;
+          background-color: white;
+          transform: rotate(90deg);
+          margin-left: 619px;
+          margin-top: -20px;
+        }
+        .mir29type{
+          height: 7px;
+          width: 2px;
+          background-color: white;
+          border-radius: 20px;
+          margin-left: 636px;
+          margin-top: -16px;
+          transform: rotate(-20deg);
+        }
+        .mir30type{
+          height: 35px;
+          width: 2px;
+          background-color: white;
+          margin-left: 623px;
+          transform: rotate(54deg);
+          margin-top: -8px;
+        }
+        .mir31type{
+          height: 75px;
+          width: 2px;
+          background-color: white;
+          margin-left: 357px;
+          margin-top: -17px;
+          transform: rotate(40deg);
+        }
